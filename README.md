@@ -8,6 +8,11 @@ It creates an arithmetic progression of any integer.
 
 ## Usage
 
+- Fork this project
+- Open it in a code editor 
+- Install the [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension
+- Click on the bottom right LiveServer icon to see your code changes in real time.
+
 - If you weren't able to enter a value, this will happen:  
 ![](https://media.giphy.com/media/H3HbJkg4VskLXSx038/giphy.gif)
 
