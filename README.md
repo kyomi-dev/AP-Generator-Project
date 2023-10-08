@@ -45,7 +45,7 @@ Please make sure to update tests as appropriate.
 
 ## Author
 
-- [Lucas Lima](https://github.com/blyatmobilebr)
+- [Lucas Lima](https://github.com/kyomi-dev)
 
 ## Special Thanks To
 
